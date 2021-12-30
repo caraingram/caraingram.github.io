@@ -1,1 +1,6 @@
 
+<h1 style="text-align: center;">I'm Cara Ingram</h1>
+<p>&nbsp;</p>
+<p style="text-align: center;"><span style="text-decoration: underline;">About Me</span></p>
+<p style="text-align: center;"><span style="text-decoration: underline;">Senior Project</span></p>
+<p style="text-align: center;"><span style="text-decoration: underline;">Contact Information</span></p>
